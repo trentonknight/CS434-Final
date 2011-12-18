@@ -1,0 +1,1 @@
+IBookSvc = library.service.IBookSvcJDBCImpl
